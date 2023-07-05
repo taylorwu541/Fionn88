@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LineBot-Subsidy](https://github.com/Fionn88/LineBot-Subsidy)
 
-- 🌱 I’m currently learning **Python, Golang, FastAPI and LineBot SDK**
+- 🌱 I’m currently learning **Python, Golang, FastAPI and Terraform**
 
 - 👯 I’m looking to collaborate on [Anonymous ChatRoom](https://github.com/dfgh012316/flask_practice)
 
