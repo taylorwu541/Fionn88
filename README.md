@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, Golang, FastAPI, AWS SAA and Terraform**
 
-- 👯 I’m looking to collaborate on [Anonymous ChatRoom](https://github.com/dfgh012316/flask_practice)
-
 - 👨‍💻 All of my projects are available at [https://hackmd.io/@Fionn88/rkQNP3Je5](https://hackmd.io/@Fionn88/rkQNP3Je5)
 
 - 📝 I regularly write articles on [https://medium.com/@fionnkuo](https://medium.com/@fionnkuo)
