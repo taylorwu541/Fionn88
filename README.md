@@ -6,9 +6,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@fionnkuo](https://medium.com/@fionnkuo)
 
-- 📫 How to reach me **coco8802231225@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing](https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing)
+
+- 📫 How to reach me **coco8802231225@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
