@@ -17,5 +17,7 @@
 
 ![fionn88's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionn88&show_icons=true&theme=highcontrast)
 
+[![Fionn88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fionn88)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
