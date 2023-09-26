@@ -19,6 +19,6 @@
 
 ![image](https://wakatime.com/badge/user/806021b6-a599-46cd-be7b-594f7b23c734.svg)
 
-[![Fionn88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Fionn88&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Fionn88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fionn88)](https://github.com/anuraghazra/github-readme-stats)
 
 
