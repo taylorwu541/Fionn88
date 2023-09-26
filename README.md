@@ -1,5 +1,3 @@
-<h1 align="center"><b>Hi , I'm Fionn Kuo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 ![image](https://camo.githubusercontent.com/2fc98802898c5af2199af837c860eb178afe288c8a7ad108018a8ef9937a0c67/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f323030783230302f696d616765732f30653238346333662d353136342d346232312d383636302d3064383437333739343162632f696d6167652e706e67)
