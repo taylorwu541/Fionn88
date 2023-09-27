@@ -1,6 +1,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-![image](https://camo.githubusercontent.com/2fc98802898c5af2199af837c860eb178afe288c8a7ad108018a8ef9937a0c67/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f323030783230302f696d616765732f30653238346333662d353136342d346232312d383636302d3064383437333739343162632f696d6167652e706e67)
+<div align="left">
+    <img width="150" height="150" src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="trophy" />
 
 - 👨‍💻 All of my projects are available at [https://hackmd.io/@Fionn88/rkQNP3Je5](https://hackmd.io/@Fionn88/rkQNP3Je5)
 
