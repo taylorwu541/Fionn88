@@ -22,4 +22,7 @@
 
 [![Fionn88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fionn88&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+<details><summary></summary>
+    <img src="https://visitcount.itsvg.in/api?id=Fionn88" />
+</details>
 
