@@ -3,13 +3,8 @@
 <div align="left">
     <img width="150" height="150" src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="trophy" />
 
-- 👨‍💻 All of my projects are available at [https://hackmd.io/@Fionn88/rkQNP3Je5](https://hackmd.io/@Fionn88/rkQNP3Je5)
 
-- 📝 I regularly write articles on [https://medium.com/@fionnkuo](https://medium.com/@fionnkuo)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing](https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing)
-
-- 📫 How to reach me **coco8802231225@gmail.com**
+- 📫 How to reach me **taylor.wusy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
